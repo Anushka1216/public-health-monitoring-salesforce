@@ -48,22 +48,22 @@ All records with geolocation automatically appear as markers.
 ![Map View](screenshots/map.png.png)
 ![Marker Popup](screenshots/marker-popup.png.png)
 
-![Object Fields 1](object-fields-1.png)
-![Object Fields 2](object-fields-2.png)
+![Object Fields 1](screenshots/object-fields-1.png.png)
+![Object Fields 2](screenshots/object-fields-2.png.png)
 
-![Severity Formula](severity-formula.png)
+![Severity Formula](screenshots/severity-formula.png.png)
 
-![Flow](flow.png)
-![Flow Decision](flow-decision.png)
+![Flow](screenshots/flow.png.png)
+![Flow Decision](screenshots/flow-decision.png.png)
 
-![Task Created](task-created.png)
-![Record Detail](record-detail.png)
+![Task Created](screenshots/task-created.png.png)
+![Record Detail](screenshots/record-detail.png.png)
 
-![Report 1 - Risk Level](report-1-risk-level.png)
-![Report 2 - Active Cases](report-2-active-cases.png)
-![Report 3 - High Severity](report-3-high-severity.png)
+![Report 1 - Risk Level](screenshots/report-1-risk-level.png.png)
+![Report 2 - Active Cases](screenshots/report-2-active-cases.png.png)
+![Report 3 - High Severity](screenshots/report-3-high-severity.png.png)
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 
 

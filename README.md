@@ -45,7 +45,7 @@ All records with geolocation automatically appear as markers.
 
 ## 📸 Screenshots
 
-![Map View](map.png)
+![Map View](screenshots/map.png.png)
 ![Marker Popup](marker-popup.png)
 
 ![Object Fields 1](object-fields-1.png)
